@@ -12,10 +12,20 @@
 ---
 
 ## 👨‍💻 About Me
-- AI & Machine Learning Engineer  
-- Interested in **Deep Learning, Computer Vision & Data Science**  
-- Strong experience with **Python, C++ and Java**  
-- Focused on building data-driven intelligent systems  
+- AI & Machine Learning Engineer focused on building **data-driven intelligent systems**  
+- Strong foundation in **Deep Learning, Computer Vision & Data Science**  
+- Experienced with **Python, C++ and Java**  
+- Passionate about turning complex data into **practical, real-world solutions**  
+- Comfortable working across **software, data, and hardware**  
+
+---
+
+## 🧠 Current Focus
+- Machine Learning & Deep Learning model development  
+- Computer Vision applications using **OpenCV**  
+- Data analysis and visualization  
+- Deploying ML models using **Flask**  
+- Experimenting with **Arduino + AI** integrations  
 
 ---
 
@@ -116,6 +126,22 @@
 
 ---
 
+## 📫 Let’s Connect
+<p align="left">
+  <a href="https://github.com/mohammedrafeeq-dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+</p>
+
+
+---
+
 <p align="center">
-  ⭐️ Thanks for visiting my profile
+  ⭐️ Thanks for visiting — feel free to explore my repositories
 </p>
