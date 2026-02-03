@@ -6,34 +6,43 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammedrafeeq-dev&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=mohammedrafeeq-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🤖 AI & Machine Learning Engineer  
-- 🧠 Interested in **Deep Learning, Computer Vision & Data Science**  
-- 💻 Strong experience with **Python, C++ and Java**  
-- 🚀 Building intelligent systems using real-world data  
+- AI & Machine Learning Engineer  
+- Interested in **Deep Learning, Computer Vision & Data Science**  
+- Strong experience with **Python, C++ and Java**  
+- Focused on building data-driven intelligent systems  
 
 ---
 
 ## 🧰 Tech Stack
 
-### Programming Languages
+### 🧑‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
-### Frontend Development
+---
+
+### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
 </p>
 
-### AI / Machine Learning
+---
+
+### 🤖 AI / Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=opencv" />
 </p>
 
 - Pandas  
@@ -41,19 +50,29 @@
 - Scikit-learn  
 - Seaborn  
 
-### Frameworks
+---
+
+### ⚙️ Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=flask" />
 </p>
 
-### Databases
+---
+
+### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,oracle" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### Tools & Software
+- Oracle  
+
+---
+
+### 🛠️ Tools & Software
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,arduino" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
 - MATLAB  
@@ -62,29 +81,41 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammedrafeeq-dev&theme=onedark&no-frame=true&row=1" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=mohammedrafeeq-dev&theme=onedark&no-frame=true&margin-w=10"
+    alt="GitHub trophies"
+  />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedrafeeq-dev&show_icons=true&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mohammedrafeeq-dev&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedrafeeq-dev&theme=tokyonight" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedrafeeq-dev&theme=tokyonight&hide_border=true"
+    alt="GitHub streak"
+  />
 </p>
 
 ---
 
 ## 🚀 Top Skills
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrafeeq-dev&layout=compact&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrafeeq-dev&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top languages"
+  />
 </p>
 
 ---
 
 <p align="center">
-  ⭐️ Feel free to explore my repositories and projects
+  ⭐️ Thanks for visiting my profile
 </p>
