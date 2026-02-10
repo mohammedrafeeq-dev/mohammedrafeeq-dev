@@ -89,23 +89,8 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=mohammedrafeeq-dev&theme=onedark&no-frame=true&margin-w=10"
-    alt="GitHub trophies"
-  />
-</p>
-
----
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mohammedrafeeq-dev&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub stats"
-  />
-</p>
 
 <p align="center">
   <img 
@@ -116,22 +101,12 @@
 
 ---
 
-## 🚀 Top Skills
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrafeeq-dev&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top languages"
-  />
-</p>
-
----
-
 ## 📫 Let’s Connect
 <p align="left">
   <a href="https://github.com/mohammedrafeeq-dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:mohammed.rafeeq.ai50@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
