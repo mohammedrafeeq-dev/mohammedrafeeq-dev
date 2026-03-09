@@ -115,8 +115,3 @@
 </p>
 
 
----
-
-<p align="center">
-  ⭐️ Thanks for visiting — feel free to explore my repositories
-</p>
