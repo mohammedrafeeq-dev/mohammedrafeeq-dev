@@ -109,7 +109,7 @@
   <a href="mailto:mohammed.rafeeq.ai50@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammed-rafeeq-dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
 </p>
